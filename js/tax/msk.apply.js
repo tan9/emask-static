@@ -148,7 +148,7 @@
                 message: "<h2 style='color:red;text-align: center;margin: 0ox;'>注意！</h2><BR/><h2 style='color:red;margin: 0ox;'>請確認下列資料。（如果事後資料填寫錯誤，重新登入填寫即可。）</h2><BR/><BR/>" +
 		        		makeInfoDiv("身分證統一編號：", $("#applyModal_msk001_idn").val()) +
 		        		makeInfoDiv("姓名：", $("#applyModal_msk001_nm").val()) +
-		        		makeInfoDiv("出生年份：", $("#applyModal_msk001_birth").val()) +
+//		        		makeInfoDiv("出生年份：", $("#applyModal_msk001_birth").val()) +
 		        		makeInfoDiv("手機號碼：", $("#applyModal_msk001_mobileNumber").val()) +
 		        		makeInfoDiv("Email：", $("#applyModal_msk001_email").val()) +
 		        		makeInfoDiv("送貨門市：", $("#applyModal_msk001_storeCd :selected").text()),
